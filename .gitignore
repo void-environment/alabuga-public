@@ -1,0 +1,10 @@
+.vscode
+.git
+#
+/source/MedLabs3.fbx
+/node_modules
+/dist
+/test
+gulpfile.js
+package.json
+package-lock.json
